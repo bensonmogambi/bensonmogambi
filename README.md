@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Software Engineer from Kenya.</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SolfaPay&label=Profile%20views&color=0e75b6&style=flat" alt="SolfaPay" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bensonmogambi&label=Profile%20views&color=0e75b6&style=flat" alt="bensonmogambi" /> </p>
 
 - 🔭 I’m currently working on **Projects with java, JavaScript, HTML, CSS and Python[Django]**
 
@@ -49,8 +49,8 @@ Name | Tools
 
 ## ❤ Views and Followers.
 
-<a href="https://github.com/SolfaPay/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SolafaPay">
+<a href="https://github.com/bensonmogambi/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=bensonmogambi">
 </a>
 <a href="https://github.com/bensonmogambi?tab=followers"><img src="https://img.shields.io/github/followers/bensonmogambi?label=Followers&style=social" alt="GitHub Badge"></a>
 
