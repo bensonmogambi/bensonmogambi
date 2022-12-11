@@ -67,8 +67,6 @@ Name | Tools
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
 
-> <a href="https://github.com/bensonmogambi/github-readme-activity-graph"><img alt="Benson Mogambi' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bensonmogambi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 
 <!---
