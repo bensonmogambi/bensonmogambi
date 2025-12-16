@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mogambibenson2@gmail.com**
 
-- ⚡ Fun fact **I'm a student of the ALX Software Engineering Programme and Artificial Intelligence for Robotics by Udacity**
+- ⚡ Fun fact **I completed the ALX Software Engineering Programme and am advancing in AI for Robotics (Udacity).**
 
 - 🔭 **I am open to work.**
  
