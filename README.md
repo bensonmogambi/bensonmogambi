@@ -39,11 +39,19 @@ Name | Tools
 
 ### 👔 Soft skills
 
-✅ Work collaboratively in a team.
+✅ Collaborative teamwork and cross‑functional communication.
 
-✅ Meet tight deadlines.
+✅ Strong leadership and mentorship abilities.
 
-✅ Good communication skills.
+✅ Problem‑solving and critical thinking under pressure.
+
+✅ Adaptability across diverse projects and environments.
+
+✅ Creativity and innovation in solution design.
+
+✅ Empathy and community engagement.
+
+✅ Effective time management and meeting tight deadlines.
 
 <hr>
 
@@ -57,10 +65,11 @@ Name | Tools
 
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
-<a href=#><img src="contributions.svg"></a>
+[![Benson's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bensonmogambi&theme=react-dark)](https://github.com/bensonmogambi)
+
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor count <br>
   <img src="https://profile-counter.glitch.me/bensonmogambi/count.svg" />
 </p>
 
