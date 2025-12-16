@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Cross platform Mobile App Development**
 
-- 📫 How to reach me **mogambibenson2@gmail.com**
+- 📫 How to reach me **[mogambibenson2@gmail.com](mailto:mogambibenson2@gmail.com)**
 
 - ⚡ Fun fact **I completed the ALX Software Engineering Programme and am advancing in AI for Robotics (Udacity).**
 
