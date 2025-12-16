@@ -68,10 +68,8 @@ Name | Tools
 [![Benson's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bensonmogambi&theme=react-dark)](https://github.com/bensonmogambi)
 
 
-<p align="center"> 
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/bensonmogambi/count.svg" />
-</p>
+![Visitor Count](https://komarev.com/ghpvc/?username=bensonmogambi&color=blue&style=for-the-badge)
+
 
 
  <br>
