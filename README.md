@@ -1,5 +1,4 @@
 
- ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I am Benson Mogambi </h1>
 <h3 align="center">A Passionate Software Engineer from Kenya.</h3> 
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
@@ -16,11 +15,14 @@
 
 - ⚡ Fun fact **I'm a student of the ALX Software Engineering Programme and Artificial Intelligence for Robotics by Udacity**
 
-- 🔭 I'm a member of **fiverr and I am open to work. **
+- 🔭 **I am open to work.**
  
  ## 🔗 Links
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u//dashboard)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/benson-mogambi-a5b201213)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benson-mogambi-a5b201213)
 
 
 
